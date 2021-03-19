@@ -1,6 +1,6 @@
 # Cypress API Testing
 
-Test project to validade the web site http://automationpractice.com/index.php
+Test project to test the web site http://automationpractice.com/index.php
 
 ## Getting Started
 

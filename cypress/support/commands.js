@@ -1,7 +1,6 @@
 Cypress.Commands.add('addItemToCar', (shoppingItem) => {
     cy.get(shoppingItem).click();
-    cy.get('[id=add_to_cart]').click();
-    //cy.get('[id=our_price_display]');    
+    cy.get('[id=add_to_cart]').click(); 
     cy.contains('Continue shopping').click();
     cy.get('[id=header_logo]').click();
 });
