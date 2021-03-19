@@ -1,4 +1,4 @@
-# Cypress API Testing
+# Cypress UI Testing
 
 Test project to test the web site http://automationpractice.com/index.php .
 This project was developed using Visual Studio Code.
