@@ -1,11 +1,21 @@
 # Cypress API Testing
 
 Test project to test the web site http://automationpractice.com/index.php
+This project was developed using Visual Studio Code.
+
+## Project Structure
+
+### Integration
+
+* Holds the test files
+
+### Support
+
+* Holds the implementation of methods required for the test suites
 
 ## Getting Started
 
-The instructions bellow will help you to get the project up and running on your machine. It was developed
-using Visual Studio Code.
+The instructions bellow will help you to get the project up and running on your machine.
 
 ### Prerequisites
 
